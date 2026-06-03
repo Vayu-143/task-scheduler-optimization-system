@@ -1,0 +1,10 @@
+Total Profit: 550
+
+Completed Tasks
+Deployment | Priority=5 | Deadline=18 | Time=1 | Profit=200
+Backend API | Priority=5 | Deadline=10 | Time=3 | Profit=150
+Frontend UI | Priority=4 | Deadline=12 | Time=2 | Profit=120
+Testing | Priority=3 | Deadline=15 | Time=2 | Profit=80
+
+Missed Tasks
+Database Setup | Priority=5 | Deadline=5 | Time=2 | Profit=100

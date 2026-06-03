@@ -1,0 +1,6 @@
+Task,Status,Priority,Deadline,Execution Time,Profit
+Deployment,Completed,5,18,1,200
+Backend API,Completed,5,10,3,150
+Frontend UI,Completed,4,12,2,120
+Testing,Completed,3,15,2,80
+Database Setup,Missed,5,5,2,100

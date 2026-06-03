@@ -1,0 +1,6 @@
+Task,Priority,Deadline,ExecutionTime,Profit,DependsOn
+Database Setup,5,5,2,100,
+Backend API,5,10,3,150,Database Setup
+Frontend UI,4,12,2,120,Backend API
+Testing,3,15,2,80,Frontend UI
+Deployment,5,18,1,200,Testing
