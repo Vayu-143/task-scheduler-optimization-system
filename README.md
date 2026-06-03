@@ -420,7 +420,7 @@ These concepts are commonly used in:
 
 ## Vayunandan Mishra
 
-Computer Science Engineering Student
+Electronics and Communications Engineering Student
 
 ### Connect
 
